@@ -3,7 +3,7 @@
 $frase ="Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.";
 
 
-$palavra = "precisa";
+$palavra = "precisaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
 
 //strpos retorna a posição de um conteudo especifico da string
 $q = strpos($frase, $palavra);
